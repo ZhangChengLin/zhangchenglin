@@ -9,7 +9,7 @@
 <!--  -->
 
 <details>
-<summary>More...</summary>
+<summary>More ++</summary>
 
 ### AboutMe
 
@@ -17,6 +17,6 @@
 - Jianpin zcl
 - Chinese name is 张成林
 
-[Get More ...](https://github.com/limingxinleo)
+[No More --](https://github.com/zhangchenglin)
 
 </details>
